@@ -1,0 +1,47 @@
+/*RESET DEFAULT BROWSER SYLES*/
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/*BODY SYLE*/
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: red;
+  line-height: 2.5;
+}
+/*HEADER STYLE*/
+h1{
+  font-size: large;
+  margin-bottom: 10px;
+  color: blue;
+
+}
+.IMAGE-CONTAINER img{
+  width: 200px;/*ADJUST THE WIDTH AS NEEDED*/
+  height: auto;
+  border: 10PX solid;/*ADDS A BORDER AROUND THE IMAGES*/
+  box-shadow: 20PX 20PX 20px;
+}
+/*FOOTER STYLE */
+footer{
+  background-color: #333;
+  color: aliceblue;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+
+
+
+
+ 
+    
+    
+
+ 
+    
+   
